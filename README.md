@@ -1,10 +1,8 @@
 # normalize.css
 
-<a href="https://github.com/necolas/normalize.css"><img
-  src="https://necolas.github.io/normalize.css/logo.svg" alt="Normalize Logo"
-  width="80" height="80" align="right"></a>
+<a href="https://github.com/libgranite/normalize.css">View on GitHub</a>
 
-> A modern alternative to CSS resets
+> A css layer which standardizes default styles across browsers.
 
 [![npm][npm-image]][npm-url] [![license][license-image]][license-url]
 [![changelog][changelog-image]][changelog-url]
@@ -14,16 +12,8 @@
 **NPM**
 
 ```sh
-npm install --save normalize.css
+npm install --save @libgranite/normalize.css
 ```
-
-**CDN**
-
-See https://yarnpkg.com/en/package/normalize.css
-
-**Download**
-
-See https://necolas.github.io/normalize.css/latest/normalize.css
 
 
 ## What does it do?
