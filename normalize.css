@@ -183,6 +183,15 @@ input { /* 1 */
 }
 
 /**
+ * Normalizes firefox and edge approach of input shrinking to chrome behaviour
+ */
+
+input {
+  min-width: 0;
+  min-height: 0;
+}
+
+/**
  * Remove the inheritance of text transform in Edge, IE11, and IE10.
  * 1. Remove the inheritance of text transform in Firefox.
  * 2. Remove blue color in iOS 15+ Safari
