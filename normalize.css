@@ -188,7 +188,6 @@ input { /* 1 */
  * 2. Remove blue color in iOS 15+ Safari
  */
 
-
 button,
 select {
   text-transform: none; /* 1 */
